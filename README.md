@@ -10,13 +10,17 @@ Learn the fundamentals of **PyTorch** and apply them to **computer vision** task
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 1 | Setup & PyTorch Basics | [x] Completed |
-| 2 | Image Loading & Transformations | [ ] Pending |
-| 3 | Building Neural Networks | [ ] Pending |
-| 4 | Transfer Learning | [ ] Pending |
-| 5 | Object Detection & Segmentation | [ ] Pending |
-| 6 | Generative Models (GANs) | [ ] Pending |
-| 7 | Deployment & Mini Project | [ ] Pending |
+| 1 | Getting Started with PyTorch for Deep Learning Technical | [x] Completed |
+| 2 | Binary Image Classification | [ ] Pending |
+| 3 | Multi-Class Image Classification | [ ] Pending |
+| 4 | Single-Object Detection  | [ ] Pending |
+| 5 | Multi-Object Detection | [ ] Pending |
+| 6 | Single-Object Segmentation | [ ] Pending |
+| 7 | Multi-Object Segmentation | [ ] Pending |
+| 8 | Neural Style Transfer with PyTorch  | [ ] Pending |
+| 9 | GANs and Adversarial Examples | [ ] Pending |
+| 10 | Video Processing with PyTorch | [ ] Pending |
+
 
 
 ## 📅 Chapters  
