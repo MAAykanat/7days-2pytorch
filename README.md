@@ -11,7 +11,7 @@ Learn the fundamentals of **PyTorch** and apply them to **computer vision** task
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | Getting Started with PyTorch for Deep Learning Technical | [x] Completed |
-| 2 | Binary Image Classification | [ ] Pending |
+| 2 | Binary Image Classification | [x] Completed |
 | 3 | Multi-Class Image Classification | [ ] Pending |
 | 4 | Single-Object Detection  | [ ] Pending |
 | 5 | Multi-Object Detection | [ ] Pending |
