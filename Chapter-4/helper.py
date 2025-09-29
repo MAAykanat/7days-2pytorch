@@ -81,6 +81,10 @@ def scale_label(a,b):
     div = [ai/bi for ai,bi in zip(a,b)]
     return div
 
+def rescale_label(a,b):
+    div = [ai*bi for ai,bi in zip(a,b)]
+    return div
+
 def transformer_more(image, label, params):
     image,label=resize_images(image,label,params["target_size"])
 
